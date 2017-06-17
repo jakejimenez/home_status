@@ -1,0 +1,26 @@
+{
+  "name": "home_status",
+  "version": "1.0.0",
+  "description": "Status for home",
+  "main": "app.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r00t1000/home_status.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r00t1000/home_status/issues"
+  },
+  "homepage": "https://github.com/r00t1000/home_status#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "forecast": "^0.3.2",
+    "twilio": "^3.4.0",
+    "wifi-control": "^2.0.1"
+  }
+}
